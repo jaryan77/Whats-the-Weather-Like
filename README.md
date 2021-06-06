@@ -24,7 +24,7 @@ My first objective is to run linear regression on each relationship, separating 
 
 - Northern Hemisphere - Temperature (F) vs. Latitude
 
-  ![n_temp](<WeatherPy\output_data\north_lat_vs_maxtemp.png>)
+  ![n_temp](WeatherPy\output_data\north_lat_vs_maxtemp.png)
 
 The r-squared is : -0.83
 There is a strong negative correlation between latitude and max temperature for northern hemisphere.
