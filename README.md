@@ -31,49 +31,49 @@ There is a strong negative correlation between latitude and max temperature for 
 
 - Southern Hemisphere - Temperature (F) vs. Latitude
 
-  ![s_temp](WeatherPy\output_data\south_lat_vs_maxtemp.png)
+  ![s_temp](WeatherPy/output_data/south_lat_vs_maxtemp.png)
 
 The r-squared is : 0.78
 There is a moderate positive correlation between latitude and max temperature for southern hemisphere.
 
 - Northern Hemisphere - Humidity (%) vs. Latitude
 
-  ![n_humidity](WeatherPy\output_data\north_lat_vs_humidity.png)
+  ![n_humidity](WeatherPy/output_data/north_lat_vs_humidity.png)
 
 The r-squared is : 0.09
 There is a moderate positive correlation between latitude and humidity for northern hemisphere.
 
 - Southern Hemisphere - Humidity (%) vs. Latitude
 
-  ![s_humidity](WeatherPy\output_data\south_lat_vs_humidity.png)
+  ![s_humidity](WeatherPy/output_data/south_lat_vs_humidity.png)
 
 The r-squared is : 0.1
 There is a moderate positive correlation between latitude and humidity for southern hemisphere.
 
 - Northern Hemisphere - Cloudiness (%) vs. Latitude
 
-  ![n_cloudiness](WeatherPy\output_data\north_lat_vs_cloudiness.png)
+  ![n_cloudiness](WeatherPy/output_data/north_lat_vs_cloudiness.png)
 
 The r-squared is : 0.005
 There is a weak positive correlation between latitude and cloudiness for northern hemisphere.
 
 - Southern Hemisphere - Cloudiness (%) vs. Latitude
 
-  ![s_cloudiness](WeatherPy\output_data\south_lat_vs_cloudiness.png)
+  ![s_cloudiness](WeatherPy/output_data/south_lat_vs_cloudiness.png)
 
 The r-squared is : 0.1
 There is a weak positive correlation between latitude and cloudiness for southern hemisphere.
 
 - Northern Hemisphere - Wind Speed (mph) vs. Latitude
 
-  ![n_wind](WeatherPy\output_data\north_lat_vs_windspeed.png)
+  ![n_wind](WeatherPy/output_data/north_lat_vs_windspeed.png)
 
 The r-squared is : -0.1
 There is a weak positive correlation between latitude and windspeed for northern hemisphere.
 
 - Southern Hemisphere - Wind Speed (mph) vs. Latitude
 
-  ![s_wind](WeatherPy\output_data\south_lat_vs_windspeed.png)
+  ![s_wind](WeatherPy/output_data/south_lat_vs_windspeed.png)
 
 The r-squared is : -0.20
 There is a weak negative correlation between latitude and wind speed for southern hemisphere.
